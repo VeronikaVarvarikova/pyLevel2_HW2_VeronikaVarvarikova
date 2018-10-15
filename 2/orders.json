@@ -1,0 +1,18 @@
+{
+    "orders": [
+        {
+            "item": "telephones",
+            "quantity": "2",
+            "price": "8000",
+            "buyer": "Veronika",
+            "date": "11/11/2011"
+        },
+        {
+            "item": "telephone",
+            "quantity": "1",
+            "price": "7800",
+            "buyer": "Veronika V",
+            "date": "11/11/2018"
+        }
+    ]
+}
